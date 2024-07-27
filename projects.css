@@ -1,0 +1,7 @@
+.container{
+    /* border: 1px solid whitesmoke; we do not need this border, that just for example to show were is the container and what inside it */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
